@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrea Colli-Vignarelli k8s Website</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Andrea Colli-Vignarelli k8s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Dec 2021 08:51:05 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Links</title>
+      <link>http://example.org/aboutme/links/</link>
+      <pubDate>Wed, 22 Dec 2021 08:54:36 +0000</pubDate>
+      
+      <guid>http://example.org/aboutme/links/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cv</title>
+      <link>http://example.org/aboutme/cv/</link>
+      <pubDate>Wed, 22 Dec 2021 08:54:23 +0000</pubDate>
+      
+      <guid>http://example.org/aboutme/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polito</title>
+      <link>http://example.org/myprojects/polito/</link>
+      <pubDate>Wed, 22 Dec 2021 08:53:00 +0000</pubDate>
+      
+      <guid>http://example.org/myprojects/polito/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>http://example.org/myprojects/personal/</link>
+      <pubDate>Wed, 22 Dec 2021 08:52:55 +0000</pubDate>
+      
+      <guid>http://example.org/myprojects/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sample</title>
+      <link>http://example.org/post/test/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/test/</guid>
+      <description>Hugo is the world&amp;rsquo;s fastest static website engine. It&amp;rsquo;s written in Go (aka Golang) and developed by bep, spf13 and friends.
+ Below you will find some of the most common and helpful pages from our documentation.
+ https://gohugo.io/documentation/</description>
+    </item>
+    
+    <item>
+      <title>test post</title>
+      <link>http://example.org/post/test/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/test/</guid>
+      <description>echo &amp;#34;hello world !!&amp;#34; </description>
+    </item>
+    
+  </channel>
+</rss>

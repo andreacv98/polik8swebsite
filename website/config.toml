@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://s290348.sandbox.crownlabs.polito.it/'
 languageCode = 'en-us'
 title = 'Andrea Colli-Vignarelli k8s Website'
 theme = 'hugo-air'
